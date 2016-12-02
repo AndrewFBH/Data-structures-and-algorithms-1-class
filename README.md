@@ -1,3 +1,3 @@
 # Data-structures-and-algorithms-1-class
-- - - - - - - - - - -Español - - - - - - - - - - -
+Español
 Tabla de contenido
